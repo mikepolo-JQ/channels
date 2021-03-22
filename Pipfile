@@ -9,6 +9,9 @@ channels = "*"
 channels-redis = "*"
 docker = "*"
 asgiref = "*"
+daphne = "*"
+django-redis = "*"
+gunicorn = "*"
 
 [dev-packages]
 
